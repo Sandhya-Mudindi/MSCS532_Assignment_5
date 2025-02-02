@@ -18,7 +18,7 @@ This repository contains implementations of algorithms and data structures as pa
   ```bash
   python Randomizied_Quick_Sort.py
 
-  ### 2. **`Randomizied_and_Deterministic_Quick Sort.py`**
+### 3. **`Randomizied_and_Deterministic_Quick Sort.py`**
 - **Description:** Implements Randomized and Deterministic Quicksort using the first element as the pivot and performance times for randomizied and deterministic partitioning across test cases..
 - **How to Run:**
   ```bash
